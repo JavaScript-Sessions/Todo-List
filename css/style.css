@@ -1,0 +1,28 @@
+* {
+  font-family: "Crimson Text", serif;
+  margin: 0;
+  padding: 0;
+  background-color: #2c3335;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+  margin: 50px;
+}
+
+#userinput {
+  width: 400px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+#add {
+  margin: 20px;
+}
+
+#list {
+  color: white;
+  font-size: 30px;
+  list-style-type: none;
+}
